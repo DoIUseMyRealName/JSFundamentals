@@ -80,7 +80,7 @@ cool: True
 console.log(car);
 console.log(typeof car);
 
-//* Array
+// Array
 //Another kind of container which holds lists of items []
 
 let list=['item1', 'item2', 'item3'];
@@ -124,4 +124,4 @@ let home = 'my home is Noblesville';
 console.log(home.includes('indianapolis'));
 
 let sent ='this sentence will be split into indivisual parts'
-console.log(sent.split(' ');
+console.log(sent.split(' ')
